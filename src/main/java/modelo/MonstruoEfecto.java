@@ -30,4 +30,4 @@ public class MonstruoEfecto extends Monstruo {
     public String getDescripcion() {
         return "Monstruo de efecto: " + efecto;
     }
-}}
+}
