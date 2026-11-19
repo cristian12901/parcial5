@@ -1,0 +1,9 @@
+[2026-11-19 07:32:08] Atacante: dragon azul | Defensor: Mago Oscuro | Daño: 500 | Resultado: Defensor destruido; el defensor pierde 500 LP
+[2026-11-19 07:32:25] Atacante: dragon azul | Defensor: kuriboh | Daño: 2700 | Resultado: Defensor destruido; el defensor pierde 2700 LP
+[2026-11-19 07:32:33] Atacante: dragon azul | Defensor: dragon azul | Daño: 0 | Resultado: Ambos monstruos destruidos; sin daño
+[2026-11-19 07:33:31] Atacante: maga oscura | Defensor: Ataque directo | Daño: 2000 | Resultado: Ataque directo; el defensor pierde 2000 LP
+[2026-11-19 07:34:32] Atacante: dragon blanco de ojos azules | Defensor: maga oscura | Daño: 1000 | Resultado: Defensor destruido; el defensor pierde 1000 LP
+[2026-11-19 07:37:32] Atacante: dragon blanco de ojos azules | Defensor: gran escudo gardna | Daño: 0 | Resultado: Defensor destruido; sin daño a los LP
+[2026-11-19 07:37:38] Atacante: Dragon blanco de ojos azules | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo; el defensor pierde 3000 LP
+[2026-11-19 07:40:38] Atacante: jinete borse | Defensor: Celtic Guardian | Daño: 500 | Resultado: Defensor destruido; el defensor pierde 500 LP
+[2026-11-19 07:40:42] Atacante: Dragon blanco de ojos azules | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo; el defensor pierde 3000 LP
